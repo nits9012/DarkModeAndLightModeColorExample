@@ -15,5 +15,11 @@ Now, add dark theme color on dark appearance and default color on any appearance
 
 <img src="color_selection_2.png" width="800" height="400">
 
+To use the color use this code Color("AppThemeColor")
+
+![Alt Text](https://github.com/nits9012/DarkModeAndLightModeColorExample/blob/main/color_selection_gif.gif)
+
+I hope this will help, Thank you
+
 
 
